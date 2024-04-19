@@ -1,0 +1,91 @@
+h1{
+    font-size: 50px;
+    color: rgb(0, 0, 0); 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h2{
+    color: rgb(0, 0, 0); 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+    text-decoration: underline;
+}
+body{
+    text-align:center;
+    background-color: whitesmoke;
+   
+}
+
+header{
+    background-color: aquamarine;
+}
+
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
+
+
+
+
+#top{
+    text-decoration: underline;
+    text-align:center;
+    margin:auto; 
+    margin: 80px;
+    padding: -100px;
+    position: relative; top: -2000px
+
+}
+
+
+.box{
+    text-align:center;
+    margin:auto;
+    border: 5px solid black;
+    margin: 80px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.alta{
+    float: left;
+    justify-content: start;
+    text-align:center;
+    margin:auto; 
+    margin: 80px;
+    max-width: fit-content;
+    margin-left: auto;
+    padding: -100px;
+    position: relative; left:10px; top: -50px
+}
+
+.dv{
+    text-align:center;
+    margin:auto; 
+    margin: 80px;
+    max-width: fit-content;
+    padding: -100px;
+    position: relative; right: -450px; top: -680px
+}
+
+.bird{
+    text-align:center;
+    margin:auto; 
+    margin: 80px;
+    max-width: fit-content;
+    margin-left: auto;
+    padding: -100px;
+    position: relative; left:70px; top: -1295px
+}
+   
+
